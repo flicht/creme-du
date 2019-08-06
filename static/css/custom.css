@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine:400i,700i&display=swap');
+
+
+body {
+    font-family: 'Cousine', monospace;
+}
+
+/* .navigation-list {
+    position: fixed;
+    top: 0;
+} */
+
+.navigation a {
+    text-transform: none
+}
+
+h1  {
+    text-transform: none
+}
+
+.avatar img {
+    padding: 20px;
+    width: 100%;
+    border-radius: 0%;
+    float: left;
+    object-fit: contain;
+}
+
+
+.site-heading {
+    float: center;
+    text-align: center
+}

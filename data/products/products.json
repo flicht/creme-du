@@ -1,0 +1,18 @@
+
+    [{
+      "id": "CREME_DU_TEE",
+      "name": "crème du Tee",
+      "price": 29.95,
+      "image": "/img/creme-du-tee.png",
+      "description": "Designed by Freddie Lichtenstein.",
+      "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+      "id": "CREME_DU_TEE",
+      "name": "crème du Tee",
+      "price": 29.95,
+      "image": "/img/creme-du-tee.png",
+      "description": "Designed by Freddie Lichtenstein.",
+      "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    }]
+  

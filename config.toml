@@ -1,0 +1,52 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "coder-portfolio"
+title = "crème du"
+
+
+# Menu links
+[[menu.main]]
+    name = "Shop"
+    weight = 1
+    url = "shop"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "blog"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "about"
+
+[params] # theme parameters
+    author = "For the everyday you" # Author's name.
+    info = "" # Author's job title or info.
+    # description = "Yusuke Ishimi's personal website" # Site description.
+    # keywords = "blog,developer,personal" # Site keywords.
+    avatarurl = "img/mountain-path.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    titleImage = "/img/title.png"
+    footercontent = "Copyright 2019" # Add footer content
+    fixedbarContent = "Make Zuckerberg richer by stalking us on FaceTube " # Add fixedbar content
+    fixedbarContentAfter = "Fly you fools" # Add fixedbar content after click
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = ['/css/custom.css']
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    snsShare = true # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
